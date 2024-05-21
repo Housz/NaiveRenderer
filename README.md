@@ -1,1 +1,1 @@
-# NaiveRenderer
+A naive software renderer.
